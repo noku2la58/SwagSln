@@ -1,0 +1,17 @@
+C:\net.new\SwagSln\Swag\Swag\bin\Debug\netstandard2.0\Swag.deps.json
+C:\net.new\SwagSln\Swag\Swag\bin\Debug\netstandard2.0\Swag.dll
+C:\net.new\SwagSln\Swag\Swag\bin\Debug\netstandard2.0\Swag.pdb
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.csproj.AssemblyReference.cache
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.GeneratedMSBuildEditorConfig.editorconfig
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.AssemblyInfoInputs.cache
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.AssemblyInfo.cs
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.csproj.CoreCompileInputs.cache
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\XamlC.stamp
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.dll
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\refint\Swag.dll
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\Swag.pdb
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\ref\Swag.dll
+C:\net.new\SwagSln\Swag\Swag\obj\Debug\netstandard2.0\OrderPage!.xaml.g.cs

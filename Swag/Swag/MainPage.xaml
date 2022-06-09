@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Swag.MainPage">
+
+
+    <StackLayout>
+        <Label FontAttributes="Bold" Text="Name"/>
+        <Entry Text="{Binding FirstName}"/>
+        <Label FontAttributes="Bold" Text="Surname"/>
+        <Entry Text="{Binding Surname}"/>
+        <Label FontAttributes="Bold" Text="Date"/>
+        <Entry Text="{Binding dateorder}"/>
+        <Label FontAttributes="Bold" Text="Size"/>
+        <Entry Text="{Binding size}"/>
+        <Label FontAttributes="Bold" Text="Address"/>
+        <Entry Text="{Binding address}"/>
+    
+
+    <Button x:Name="SaveButton" Text="Save Order" Clicked="SaveButton_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>

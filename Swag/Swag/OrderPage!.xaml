@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Swag.OrderPage"
+             BackgroundColor="LightGray"
+             Title="Get your .Net Sweg">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Clicked="orderitems">
+            <ToolbarItem.IconImageSource>
+                <OnPlatform x:TypeArguments="ImageSource">
+                    <On Platform="Android, UWP"
+                        Value="cart.jpeg"/>
+                </OnPlatform>
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>        
+    <StackLayout>
+
+       
+          
+        <ImageButton Source ="Netimage.jpeg" Clicked="Button"/>
+        <ImageButton Source ="ladies.jpeg" Clicked="Button"/>
+
+
+    </StackLayout>
+    
+</ContentPage>
